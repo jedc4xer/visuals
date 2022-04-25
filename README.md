@@ -1,0 +1,2 @@
+# visuals
+Hosted Visuals
